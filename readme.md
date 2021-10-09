@@ -40,6 +40,6 @@ After benchmarking, we find out that Unbalance, Non-Stopwords, Stemming, and Min
 | SVM          |     0.74               |
 | Naive Bayes  |     0.62               |
 
-As seen above the IndoBERTweet models give the highest accuracy so because no time left for another benchmark 😋 So, it's time for us to predict the data test. 
+As seen above the IndoBERTweet models give the highest accuracy. Then, because no time left for another benchmark 😋 So, it's time for us to predict the data test. 
 
 In the end, the judge tells that we got the highest accuracy from other teams in the data test which has the accuracy of 0.79 and got the [1st Place](https://www.instagram.com/p/CUzfu7-Fk6y/), Horaay!!!
