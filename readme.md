@@ -21,7 +21,7 @@ Actually, At this phase, we tried several data cleansing techniques to find the 
 - Delete PPKM Words + Minimum 2 Words + Stopwords
 - Non Stemming + Stopwords
 
-We also do benchmark the model into the balance and unbalance data in . So, all of it was consist **16 Combination For each Models** 😱
+We also do benchmark the model into the balance and unbalance data. So, all of it was consist **16 Combination For each Models** 😱
 
 ![Multitask Spongebob](https://c.tenor.com/sqxKQ3lUS_wAAAAC/spongebob-spongebob-squarepants.gif)
 
@@ -29,7 +29,7 @@ We actually tuning the models for about 4 hours lol.
 
 ## **Benchmark Model Accuracy Results**
 
-After benchamrking, we find out that Unbalance, Non-Stopwords, Stemming, and Minimum 2 Words cleansing give us the best accuracy. Below is the list of the best accuracy we got in some models.
+After benchmarking, we find out that Unbalance, Non-Stopwords, Stemming, and Minimum 2 Words cleansing give us the best accuracy. Below is the list of the best accuracy we got in some models.
 
 | Model        | Validation Accuracy    |
 | -----------  | ---------------------- |
